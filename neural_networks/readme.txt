@@ -1,8 +1,9 @@
 This folder is where we will place the files related to neural networks. 
 
 
-See the experiment flow and results in the Comparing Models.ipynb file.
+See the experiment flow and results in the Comparing Models.ipynb file and Learning the Mandelbrot set - Hyper parameter Optimization.ipynb.
 
+the all experiment flow was saved in Learning the Mandelbrot set - Hyper parameter Optimization.ipynb
 testmodel.ipynb where we test some of our functions.
 We did some preliminary Model testing in Sequential Model.ipynb.
 mandelbrot.ipynb We generated and used the mandelbrot dataset for modeling.
